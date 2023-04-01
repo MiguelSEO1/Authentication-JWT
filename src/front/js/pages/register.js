@@ -34,7 +34,7 @@ export const Register = () => {
   return (
     <div className="  container justify-content-center align-items-center mb-5">
       <div className="container-fluid text-center mt-5 border bg-warning text-danger fs-1">
-        PAGINA DE REGISTER
+        PÁGINA DE REGISTER
       </div>
 
       <form className=" border m-5 p-5">
